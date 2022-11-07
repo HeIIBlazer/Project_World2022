@@ -1,0 +1,36 @@
+.search {
+    padding: 5px 0;
+    width: 440px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+    float: left;
+    line-height: 22px;
+}
+.form-search{
+	border:none;
+	border-top:none;
+}
+.row{
+	 margin-bottom: -70px!important;
+}
+    .search input {
+        position: absolute;
+        width: 230px;
+        float: Left;
+        margin-left: 210px;
+
+        height: 30px;
+        line-height: 18px;
+        padding: 0 2px 0 2px;
+        border-radius:1px;
+    }
+
+.btn {
+    height: 30px;
+    margin-left: 440px;
+    right: 0;
+    top: 5px;
+    border-radius: 1px;
+    margin-top: 12px;
+}
